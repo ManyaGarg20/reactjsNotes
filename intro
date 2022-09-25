@@ -1,0 +1,9 @@
+started by writing:
+npm install -g create-react-app
+npx create-react-app appname  ( in folder where project is to be build)
+.
+then you see a package whole with name of your app.
+in src folder , App.js  , it is a js file which has jsx (90% same as html).
+we edit App.js file which is shown on website/app
+
+start app by writing npm start on terminal
